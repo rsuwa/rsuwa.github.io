@@ -1,2 +1,2 @@
-# rsuwa.github.io
-Profile
+# Ryota Suwa
+Graduate student studying computer science
