@@ -1,3 +1,7 @@
+## Ryota Suwa
+
+Graduate student studying computer science
+
 ## Education
 
 ### Waseda University
@@ -27,12 +31,25 @@ Bachelor's thesis: Learning methods for automated driving by combining imitation
 - Go
 - C
 
-### Languages
+### Frameworks & Tools
+
+- AWS
+- CircleCI
+- Docker
+- Flask
+- GCP
+- Git
+- Kubernetes
+- React
+- Ruby on Rails
+
+### (Natural) Languages
 
 - Japansese (Native)
 - English (TOEIC 775, TOEFL iBT 70)
 
 ## Work Experience
+
 
 ### Rudel, Inc.
 
@@ -40,11 +57,13 @@ Bachelor's thesis: Learning methods for automated driving by combining imitation
 
 Apr. 2019 - Nov. 2019
 
+
 ### LINKBAL INC.
 
 #### Software Engineer Internship
 
 Sep. 2018 - Dec. 2018
+
 
 ### Sony Corporation
 
@@ -52,8 +71,17 @@ Sep. 2018 - Dec. 2018
 
 Sep. 2018
 
+
 ### Yahoo Japan Corporation
 
 #### Software Engineer  Internship
 
 Aug. 2018
+
+
+## Link
+
+- [GitHub](https://github.com/rsuwa/)
+- [LinkedIn](https://www.linkedin.com/in/ryotasuwa/)
+- [Facebook](https://www.facebook.com/ryota.suwa.5/)
+- [Qiita](https://qiita.com/rsuwa/)
