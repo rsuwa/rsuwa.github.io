@@ -46,7 +46,7 @@ Bachelor's thesis: Learning methods for automated driving by combining imitation
 ### (Natural) Languages
 
 - Japansese (Native)
-- English (TOEIC 775, TOEFL iBT 70)
+- English (TOEIC 855, TOEFL iBT 73)
 
 ## Work Experience
 
