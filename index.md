@@ -50,6 +50,12 @@ Bachelor's thesis: Learning methods for automated driving by combining imitation
 
 ## Work Experience
 
+### Honda Motor Co., Ltd.
+
+#### Research Internship (Research on automated driving using deep reinforcement learning)
+
+Aug. 2020
+
 
 ### Rudel, Inc.
 
