@@ -50,6 +50,12 @@ Bachelor's thesis: Learning methods for automated driving by combining imitation
 
 ## Work Experience
 
+### Nippon Telegraph and Telephone Corporation (NTT R&D)
+
+#### Research Internship (Research on the cooperative control between autonomous driving and quality fluctuation of communication network by remote monitoring and control)
+
+Feb. 2021 - Mar. 2021
+
 ### Honda Motor Co., Ltd.
 
 #### Research Internship (Research on automated driving using deep reinforcement learning)
