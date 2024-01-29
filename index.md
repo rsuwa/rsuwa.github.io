@@ -1,21 +1,24 @@
 ## Ryota Suwa
 
-Graduate student studying computer science
+I am a lover of robotics, AI and coding.
 
 ## Education
 
 ### Waseda University
 
+Apr. 2020 - Mar. 2022
+
 #### Master's course, Department of Computer Science and Communications Engineering
 
-Apr. 2020 - Present
+Master's thesis: An Automated Driving Strategy for Microscopic Road Traffic Using Multi-Agent Deep
+Reinforcement Learning
 
 
 ### Waseda University
 
-#### Bachelor's course, Department of Computer Science and Engineering
-
 Apr. 2016 - Mar. 2020
+
+#### Bachelor's course, Department of Computer Science and Engineering
 
 Bachelor's thesis: Learning methods for automated driving by combining imitation learning and multi-agent reinforcement learning
 
@@ -50,50 +53,67 @@ Bachelor's thesis: Learning methods for automated driving by combining imitation
 
 ## Work Experience
 
-### Nippon Telegraph and Telephone Corporation (NTT R&D)
+### Toyota Motor Corporation (Full-time)
 
-#### Research Internship (Research on the cooperative control between autonomous driving and quality fluctuation of communication network by remote monitoring and control)
+- Apr. 2022 - Present
 
-Feb. 2021 - Mar. 2021
+- Deployment of advanced safety systems
 
-### Honda Motor Co., Ltd.
+### ispace, inc. (Software Enginner Internship)
 
-#### Research Internship (Research on automated driving using deep reinforcement learning)
+- Nov. 2021 - Mar. 2022
 
-Aug. 2020
+- Development and demonstration of infrastructure infrastructure using Docker
 
+### ExaWizards, Inc. (Software Enginner Internship)
 
-### Rudel, Inc.
+- Aug. 2021 - Mar. 2022
 
-#### IT Infrastracture Engineer Internship
+- Development of cooking robot using small robot COBOTTA
 
-Apr. 2019 - Nov. 2019
+### Nippon Telegraph and Telephone Corporation (Research Internship)
 
+- Feb. 2021 - Mar. 2021
 
-### LINKBAL INC.
-
-#### Software Engineer Internship
-
-Sep. 2018 - Dec. 2018
+- Research on the cooperative control between autonomous driving and quality fluctuation of communication network by remote monitoring and control
 
 
-### Sony Corporation
+### Honda Motor Co., Ltd. (Summer Internship)
 
-#### Software Engineer Internship
+- Aug. 2020
 
-Sep. 2018
-
-
-### Yahoo Japan Corporation
-
-#### Software Engineer  Internship
-
-Aug. 2018
+- Research on automated driving using deep reinforcement learning
 
 
-## Link
+### Rudel, Inc. (Software Engineer Internship)
+
+- Apr. 2019 - Nov. 2019
+
+- Building infrastructure for smartphone applications
+
+
+### LINKBAL INC. (Software Engineer Internship)
+
+- Sep. 2018 - Dec. 2018
+
+- Software Engineer Internship
+
+
+### Sony Corporation (Summer Internship)
+
+- Sep. 2018
+
+- Developed and evaluated an image processing algorithm using a domain-specific language called Halide.
+
+
+### Yahoo Japan Corporation (Software Engineer Internship)
+
+- Aug. 2018
+
+- Software Engineer Internship
+
+
+## Links
 
 - [GitHub](https://github.com/rsuwa/)
 - [LinkedIn](https://www.linkedin.com/in/ryotasuwa/)
-- [Facebook](https://www.facebook.com/ryota.suwa.5/)
-- [Qiita](https://qiita.com/rsuwa/)
