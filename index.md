@@ -59,13 +59,13 @@ Bachelor's thesis: Learning methods for automated driving by combining imitation
 
 - Deployment of advanced safety systems
 
-### ispace, inc. (Software Enginner Internship)
+### ispace, inc. (Software Engineer Internship)
 
 - Nov. 2021 - Mar. 2022
 
 - Development and demonstration of infrastructure infrastructure using Docker
 
-### ExaWizards, Inc. (Software Enginner Internship)
+### ExaWizards, Inc. (Software Engineer Internship)
 
 - Aug. 2021 - Mar. 2022
 
